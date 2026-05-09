@@ -75,11 +75,15 @@ export const Route = createRootRouteWithContext<{ queryClient: QueryClient }>()(
       { title: "JJ Advanced Pressure Cleaning | Sydney Specialists Since 1998" },
       { name: "description", content: "Sydney pressure cleaning specialists. Commercial, industrial, heritage & residential. Call 1300 853 253." },
       { name: "author", content: "JJ Advanced Pressure Cleaning" },
-      { property: "og:title", content: "JJ Advanced Pressure Cleaning — Sydney" },
-      { property: "og:description", content: "In time. On budget. In a whisper." },
+      { property: "og:title", content: "JJ Advanced Pressure Cleaning | Sydney Specialists Since 1998" },
+      { property: "og:description", content: "Sydney pressure cleaning specialists. Commercial, industrial, heritage & residential. Call 1300 853 253." },
       { property: "og:type", content: "website" },
       { name: "twitter:card", content: "summary" },
       { name: "twitter:site", content: "@Lovable" },
+      { name: "twitter:title", content: "JJ Advanced Pressure Cleaning | Sydney Specialists Since 1998" },
+      { name: "twitter:description", content: "Sydney pressure cleaning specialists. Commercial, industrial, heritage & residential. Call 1300 853 253." },
+      { property: "og:image", content: "https://pub-bb2e103a32db4e198524a2e9ed8f35b4.r2.dev/452bab6c-779a-40b1-8d1c-8599be8a83d9/id-preview-3c49a204--bb441885-d2e8-4f67-b224-212abff4fea7.lovable.app-1778320001856.png" },
+      { name: "twitter:image", content: "https://pub-bb2e103a32db4e198524a2e9ed8f35b4.r2.dev/452bab6c-779a-40b1-8d1c-8599be8a83d9/id-preview-3c49a204--bb441885-d2e8-4f67-b224-212abff4fea7.lovable.app-1778320001856.png" },
     ],
     links: [
       {
